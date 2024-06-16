@@ -42,6 +42,7 @@ screen -S pin
 ```
 >
 ![](Adsız.png)
+>
 İlk başta kayıt olduğumuz sitedeki "MORE" kısmına tıklayıp. "Depin Harvester" kısmına giriyoruz. Burada yer alan "Add Device" kısmındaki "Device ID" yi kopyalıyoruz çünkü biraz sonraki kodun son kısmına ekleyip yazacağız kodu.
 
 ```
