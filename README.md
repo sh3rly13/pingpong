@@ -1,4 +1,5 @@
 # PINGPONG
+![](logo.png)
 >[!NOTE]
 >Evde kullandığım eski bilgisayara ubuntu server yüklemiştim aynı yere kurduğum Depin projelerinden birisi olan PingPong un kurulumunu yapıyorum. Düşük işlemci gücü ve masraflarından ötürü. Kodların tamamı alıntıdır.
 
