@@ -1,13 +1,13 @@
 # PINGPONG
 >[!NOTE]
->Evde kullandığım eski bilgisayara ubuntu server yüklemiştim aynı yere kurduğum Depin projelerinden birisi olan PingPong un kurulumunu yapıyorum. Düşük işlemci gücü ve masraflarından ötürü.
+>Evde kullandığım eski bilgisayara ubuntu server yüklemiştim aynı yere kurduğum Depin projelerinden birisi olan PingPong un kurulumunu yapıyorum. Düşük işlemci gücü ve masraflarından ötürü. Kodların tamamı alıntıdır.
 
 # 1 - Adım
 >[Buradan](https://app.pingpong.build/points?invite_code=ZN8YXVqy) pingpong a kayıt oluyoruz.
 Discord a katılma - Bridge - swap - stake görevleri var burada.
 
 # 2 - Adım
->Sunucuyu kuracağız.
+>Sunucuyu kuracağız. Ben kodları tek tek kopyalayıp yapıştırdım.
 
 ```
 sudo apt-get update
@@ -37,7 +37,9 @@ docker run hello-world
 ```
 >Screen oluşturuyoruz - Yeni pencere açıyoruz bir nevi
 >
-```screen -S pin```
+```
+screen -S pin
+```
 >
 ![](Adsız.png)
 İlk başta kayıt olduğumuz sitedeki "MORE" kısmına tıklayıp. "Depin Harvester" kısmına giriyoruz. Burada yer alan "Add Device" kısmındaki "Device ID" yi kopyalıyoruz çünkü biraz sonraki kodun son kısmına ekleyip yazacağız kodu.
